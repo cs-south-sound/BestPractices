@@ -12,5 +12,6 @@ We can explore some [methodologies](https://en.wikipedia.org/wiki/Software_devel
 
 ### Reference
 [Test-Driven JavaScript Development](http://it-ebooks.info/book/2134/) the book
+[Google Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 
 
