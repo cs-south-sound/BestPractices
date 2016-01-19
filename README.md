@@ -13,6 +13,7 @@ We can explore some [methodologies](https://en.wikipedia.org/wiki/Software_devel
 * Code Documentation
   * [JSDoc](https://github.com/jsdoc3/jsdoc)
     * [Usage](http://usejsdoc.org/)
+    * Google [guide](https://google.github.io/styleguide/javascriptguide.xml?showone=Comments#Comments)
   * [Documentatio.js](http://documentation.js.org/)
   * SO [1](http://stackoverflow.com/questions/27334309/ecmascript-6-documentation-generators)
 
