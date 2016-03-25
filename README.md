@@ -2,13 +2,15 @@ We can explore some [methodologies](https://en.wikipedia.org/wiki/Software_devel
 * Test driven development [TDD](https://en.wikipedia.org/wiki/Test-driven_development)
   * with tools such as:
     * [Jasmine](https://jasmine.github.io/) 
-    * [Mocha](http://mochajs.org/)
-    * [travis-ci](https://travis-ci.org/) and github
     * [Qunit](http://qunitjs.com/) 
+    * [Mocha](http://mochajs.org/)
+    * [Karma](http://karma-runner.github.io/0.13/index.html) a test runner
+    * [travis-ci](https://travis-ci.org/) and github
     * [SinonJ](http://sinonjs.org/)
     * [Yadda](https://github.com/acuminous/yadda)
 * Systems development life cycle [SDLC](https://en.wikipedia.org/wiki/Systems_development_life_cycle)
 * [Agile](https://en.wikipedia.org/wiki/Agile_software_development)
+  * [Pair Programming](https://github.com/Tacoma-JS/BestPractices/blob/master/pair_programming_notes.md) 
 
 * Code Documentation
   * [JSDoc](https://github.com/jsdoc3/jsdoc)
