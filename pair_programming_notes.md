@@ -23,6 +23,9 @@ Techcrunch - [Considered Harmful](http://techcrunch.com/2012/03/03/pair-programm
   * [cheat-sheet_1](http://blog.niklasottosson.com/?p=574)
   * [cheat-sheet_2](https://www.hashdoc.com/documents/20613/tmux-advanced-cheat-sheet#!fullscreen)
 
+* Chat
+  * [gitter.im](https://gitter.im)
+  * google.com/hangout w/video and audio
 ### Videos
 * Introduction to pair programming
   * [Steve Casely](https://www.youtube.com/watch?v=sJK36RvjwNk)
