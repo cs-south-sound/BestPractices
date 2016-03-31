@@ -26,6 +26,7 @@ Techcrunch - [Considered Harmful](http://techcrunch.com/2012/03/03/pair-programm
 * Chat
   * [gitter.im](https://gitter.im)
   * google.com/hangout w/video and audio
+
 ### Videos
 * Introduction to pair programming
   * [Steve Casely](https://www.youtube.com/watch?v=sJK36RvjwNk)
