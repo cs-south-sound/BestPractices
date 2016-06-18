@@ -13,7 +13,7 @@ Techcrunch - [Considered Harmful](http://techcrunch.com/2012/03/03/pair-programm
 
 * [jsFiddle](https://jsfiddle.net/)
 
-* [micro.glark](http://micro.glark.io)
+* [micro.glark](http://micro.glark.io) on [github](https://github.com/Bluefinch/microglark)
 
 * [Cloud Nine](https://c9.io/)
 
@@ -25,7 +25,7 @@ Techcrunch - [Considered Harmful](http://techcrunch.com/2012/03/03/pair-programm
 
 * Chat
   * [gitter.im](https://gitter.im)
-  * google.com/hangout w/video and audio
+  * Google [hangout](https://hangouts.google.com/) w/video, audio and text
 
 ### Videos
 * Introduction to pair programming
