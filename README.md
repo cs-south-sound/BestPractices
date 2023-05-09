@@ -38,3 +38,19 @@ someone else?  There are so many successful organizations
 with exceptionally smart people working and volunteering
 for them, that adopting those organizational best
 practices is the approach for the following discussions.
+
+## Security
+
+Let us look at the key security words from IBM Cloud, Google Cloud
+Platform, Microsoft Azure, and Amazon Web Services and link directly to
+each site.
+
+### Google
+
+[![GCP_security](./assets/images/google-security-wordcloud.jpg)](https://cloud.google.com/security/best-practices)
+
+
+## Reference
+
+1. [wordclouds.com](https://www.wordclouds.com/)
+2. [GCP_security_wordlist](./assets/word_lists/google-security-wordcloud.csv)
