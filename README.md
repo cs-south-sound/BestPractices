@@ -45,6 +45,10 @@ Let us look at the key security words from IBM Cloud, Google Cloud
 Platform, Microsoft Azure, and Amazon Web Services and link directly to
 each site.
 
+### IBM
+
+[![IBM_security](./assets/images/ibm-security-wordcloud.jpg)](https://www.ibm.com/topics/cloud-security)
+
 ### Google
 
 [![GCP_security](./assets/images/google-security-wordcloud.jpg)](https://cloud.google.com/security/best-practices)
@@ -54,3 +58,4 @@ each site.
 
 1. [wordclouds.com](https://www.wordclouds.com/)
 2. [GCP_security_wordlist](./assets/word_lists/google-security-wordcloud.csv)
+3. [IBM_security_wordlists](./assets/word_lists/ibm-security-wordcloud.csv)
