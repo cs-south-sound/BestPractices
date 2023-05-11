@@ -53,9 +53,13 @@ each site.
 
 [![GCP_security](./assets/images/google-security-wordcloud.jpg)](https://cloud.google.com/security/best-practices)
 
+### Microsoft Azure
+
+[![Azure_security](./assets/images/microsoft-azure-wordcloud.jpg)](https://azure.microsoft.com/mediahandler/files/resourcefiles/security-best-practices-for-azure-solutions/Azure%20Security%20Best%20Practices.pdf)
 
 ## Reference
 
 1. [wordclouds.com](https://www.wordclouds.com/)
 2. [GCP_security_wordlist](./assets/word_lists/google-security-wordcloud.csv)
-3. [IBM_security_wordlists](./assets/word_lists/ibm-security-wordcloud.csv)
+3. [IBM_security_wordlist](./assets/word_lists/ibm-security-wordcloud.csv)
+4. [Azure_security_wordlist](./assets/word_lists/microsoft-azure-wordcloud.csv)
