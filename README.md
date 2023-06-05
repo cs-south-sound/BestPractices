@@ -39,7 +39,8 @@ with exceptionally smart people working and volunteering
 for them, that adopting those organizational best
 practices is the approach for the following discussions.
 
-## Security
+<details>
+<summary>Security</summary>
 
 Let us look at the key security words from IBM Cloud, Google Cloud
 Platform, Microsoft Azure, and Amazon Web Services and link directly to
@@ -56,6 +57,8 @@ each site.
 ### Microsoft Azure
 
 [![Azure_security](./assets/images/microsoft-azure-wordcloud.jpg)](https://azure.microsoft.com/mediahandler/files/resourcefiles/security-best-practices-for-azure-solutions/Azure%20Security%20Best%20Practices.pdf)
+
+</details>
 
 ## Reference
 
