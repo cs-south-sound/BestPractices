@@ -4,7 +4,7 @@ from urllib.request import Request, urlopen
 # links to security best practices website
 ibm    = "https://www.ibm.com/topics/cloud-security"
 google = "https://cloud.google.com/security/best-practices"
-aws    = ""
+aws    = "https://aws.amazon.com/security/"
 #microsoft azure is a pdf.  see the ingest pdf file
 cloud_list = [ibm,google,aws]
 just_like_my_browser = {
