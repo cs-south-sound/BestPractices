@@ -5,8 +5,11 @@
 Start a [virtual environment](https://python.land/virtual-environments/virtualenv)
 ```bash
 cd ~/BestPractices/scripts
-python -m venv venv        # create
+python -m venv venv        # create one time only
+```
+```bash
 source venv/bin/activate # activate
+pip install -r requirements.txt
 ```
 
 ## 01_Get Docs
